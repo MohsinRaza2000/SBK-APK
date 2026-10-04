@@ -19,4 +19,5 @@ connection — which is the reason this repository exists.
 
 | Version | File | Size |
 |---|---|---|
-| 1.0.9 | `SBK-Chat.apk` | 60.6 MB |
+| **1.0.10 (latest, 4 Oct 2026)** | `SBK-Chat.apk` | 60.6 MB |
+| 1.0.9 (22 Sep 2026) | `SBK-Chat.apk` | 60.6 MB |
